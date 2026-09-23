@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "@types/ssh2-sftp-client": "^9.0.6",
+    "typescript": "^7.0.2"
+  },
+  "name": "ccnwatcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^18.0.2",
+    "moment": "^2.31.0",
+    "node-cron": "^4.6.0",
+    "ssh2-sftp-client": "^12.1.1",
+    "undici-types": "^8.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx watch index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
