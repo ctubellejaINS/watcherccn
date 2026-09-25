@@ -2,21 +2,29 @@
   "devDependencies": {
     "@types/node": "^26.6.2",
     "@types/ssh2-sftp-client": "^9.0.6",
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   },
   "name": "ccnwatcher",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "dependencies": {
+    "@nodable/flexible-xml-parser": "^1.11.3",
     "dotenv": "^18.0.2",
+    "fast-xml-parser": "^5.11.1",
     "moment": "^2.31.0",
+    "mongodb": "^7.6.0",
     "node-cron": "^4.6.0",
     "ssh2-sftp-client": "^12.1.1",
     "undici-types": "^8.9.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsx watch index.ts"
+    "start": "npx tsx --watch index.ts",
+    "debug": "nodemon --watch . --ext ts --exec \"node --inspect=9229 --import tsx/esm index.ts\""
   },
   "keywords": [],
   "author": "",

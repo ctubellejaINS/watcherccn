@@ -1,0 +1,1015 @@
+ || CREATION || Application started. || 2026-09-24T23:34:06.246Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:34:09.253Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:34:09.257Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:34:09.306Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:34:09.320Z 
+ || ERROR || Cannot convert undefined or null to object || 2026-09-24T23:34:22.207Z 
+ || CREATION || Application started. || 2026-09-24T23:35:00.468Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:35:03.477Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:35:03.479Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:35:03.516Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:35:03.532Z 
+ || CREATION || Application started. || 2026-09-24T23:35:38.487Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:35:41.501Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:35:41.504Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:35:41.543Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:35:41.557Z 
+ || CREATION || Application started. || 2026-09-24T23:36:12.820Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:36:15.823Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:36:15.826Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:36:15.877Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:36:15.895Z 
+ || CREATION || Application started. || 2026-09-24T23:36:58.704Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:37:01.710Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:37:01.714Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:37:01.748Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:37:01.761Z 
+ || CREATION || Application started. || 2026-09-24T23:37:09.597Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:37:12.613Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:37:12.620Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:37:12.655Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:37:12.668Z 
+ || CREATION || Application started. || 2026-09-24T23:37:19.464Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:37:22.473Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:37:22.475Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:37:22.511Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:37:22.524Z 
+ || CREATION || Application started. || 2026-09-24T23:37:30.276Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:37:33.291Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:37:33.293Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:37:33.358Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:37:33.373Z 
+ || CREATION || Application started. || 2026-09-24T23:37:36.391Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:37:39.407Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:37:39.410Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:37:39.456Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:37:39.476Z 
+ || CREATION || Application started. || 2026-09-24T23:38:06.625Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:38:09.632Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:38:09.635Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:38:09.668Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:38:09.684Z 
+ || CREATION || Application started. || 2026-09-24T23:39:00.300Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:39:03.315Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:39:03.318Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:39:03.354Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:39:03.370Z 
+ || CREATION || Application started. || 2026-09-24T23:39:18.358Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:39:21.366Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:39:21.369Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:39:21.408Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:39:21.423Z 
+ || CREATION || Application started. || 2026-09-24T23:39:49.008Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:39:52.025Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:39:52.030Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:39:52.067Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:39:52.081Z 
+ || CREATION || Application started. || 2026-09-24T23:40:31.952Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:40:34.966Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:40:34.969Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:40:35.009Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:40:35.021Z 
+ || CREATION || Application started. || 2026-09-24T23:40:38.286Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:40:41.304Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:40:41.311Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:40:41.347Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:40:41.359Z 
+ || CREATION || Application started. || 2026-09-24T23:40:45.805Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:40:48.815Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:40:48.819Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:40:48.858Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:40:48.870Z 
+ || CREATION || Application started. || 2026-09-24T23:40:54.983Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:40:57.987Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:40:57.991Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:40:58.026Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:40:58.041Z 
+ || CREATION || Application started. || 2026-09-24T23:41:04.800Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:41:07.811Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:41:07.816Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:41:07.852Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:41:07.864Z 
+ || CREATION || Application started. || 2026-09-24T23:41:15.998Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:41:19.013Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:41:19.017Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:41:19.058Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:41:19.072Z 
+ || CREATION || Application started. || 2026-09-24T23:41:21.856Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:41:24.870Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:41:24.873Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:41:24.917Z 
+ || CREATION || Application started. || 2026-09-24T23:41:25.517Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:41:28.521Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:41:28.526Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:41:28.564Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:41:28.576Z 
+ || CREATION || Application started. || 2026-09-24T23:52:32.659Z 
+ || CREATION || Application started. || 2026-09-24T23:52:33.501Z 
+ || CREATION || Application started. || 2026-09-24T23:52:35.145Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:52:38.163Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:52:38.169Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:52:38.207Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:52:38.218Z 
+ || CREATION || Application started. || 2026-09-24T23:53:55.872Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:53:58.890Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:53:58.894Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:53:58.933Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:53:58.947Z 
+ || CREATION || Application started. || 2026-09-24T23:55:03.624Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:55:06.643Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:55:06.646Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:55:06.685Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:55:06.697Z 
+ || CREATION || Application started. || 2026-09-24T23:55:19.806Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:55:22.815Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:55:22.818Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:55:22.856Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:55:22.868Z 
+ || CREATION || Application started. || 2026-09-24T23:55:28.452Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:55:31.455Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:55:31.458Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:55:31.496Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:55:31.508Z 
+ || CREATION || Application started. || 2026-09-24T23:55:46.320Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:55:49.323Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:55:49.329Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:55:49.366Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:55:49.378Z 
+ || CREATION || Application started. || 2026-09-24T23:56:15.383Z 
+ || INFO || Starting CCN Watcher || 2026-09-24T23:56:18.387Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-24T23:56:18.390Z 
+ || INFO || Connected to MongoDB || 2026-09-24T23:56:18.430Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-24T23:56:18.443Z 
+ || CREATION || Application started. || 2026-09-25T00:00:15.074Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T00:00:18.086Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T00:00:18.090Z 
+ || INFO || Connected to MongoDB || 2026-09-25T00:00:18.123Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T00:00:18.134Z 
+ || INFO || Starting manifestInfo details || 2026-09-25T00:00:18.146Z 
+ || CREATION || Application started. || 2026-09-25T00:01:09.967Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T00:01:12.983Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T00:01:12.986Z 
+ || INFO || Connected to MongoDB || 2026-09-25T00:01:13.023Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T00:01:13.036Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T00:01:13.048Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T00:01:13.057Z 
+ || CREATION || Application started. || 2026-09-25T00:01:28.589Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T00:01:31.600Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T00:01:31.608Z 
+ || INFO || Connected to MongoDB || 2026-09-25T00:01:31.643Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T00:01:31.655Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T00:01:31.666Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T00:01:31.677Z 
+ || CREATION || Application started. || 2026-09-25T00:01:50.734Z 
+ || CREATION || Application started. || 2026-09-25T00:01:53.619Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T00:01:56.626Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T00:01:56.631Z 
+ || INFO || Connected to MongoDB || 2026-09-25T00:01:56.666Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T00:01:56.678Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T00:01:56.691Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T00:01:56.702Z 
+ || CREATION || Application started. || 2026-09-25T00:02:22.392Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T00:02:25.411Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T00:02:25.414Z 
+ || INFO || Connected to MongoDB || 2026-09-25T00:02:25.448Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T00:02:25.462Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T00:02:25.475Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T00:02:25.487Z 
+ || CREATION || Application started. || 2026-09-25T00:02:56.745Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T00:02:59.751Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T00:02:59.757Z 
+ || INFO || Connected to MongoDB || 2026-09-25T00:02:59.794Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T00:02:59.806Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T00:02:59.818Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T00:02:59.828Z 
+ || CREATION || Application started. || 2026-09-25T01:09:27.761Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:09:30.778Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:09:30.781Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:09:30.816Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:09:30.828Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:09:30.842Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:09:30.854Z 
+ || CREATION || Application started. || 2026-09-25T01:09:39.996Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:09:43.002Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:09:43.008Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:09:43.044Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:09:43.056Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:09:43.073Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:09:43.085Z 
+ || CREATION || Application started. || 2026-09-25T01:09:53.956Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:09:56.966Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:09:56.969Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:09:57.002Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:09:57.017Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:09:57.030Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:09:57.041Z 
+ || CREATION || Application started. || 2026-09-25T01:10:08.712Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:10:11.717Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:10:11.721Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:10:11.759Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:10:11.772Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:10:11.784Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:10:11.796Z 
+ || CREATION || Application started. || 2026-09-25T01:10:38.546Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:10:41.561Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:10:41.564Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:10:41.606Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:10:41.623Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:10:41.640Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:10:41.651Z 
+ || CREATION || Application started. || 2026-09-25T01:13:27.596Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:13:30.609Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:13:30.614Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:13:30.651Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:13:30.664Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:13:30.677Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:13:30.689Z 
+ || CREATION || Application started. || 2026-09-25T01:13:44.496Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:13:47.512Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:13:47.516Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:13:47.553Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:13:47.569Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:13:47.581Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:13:47.592Z 
+ || CREATION || Application started. || 2026-09-25T01:14:01.012Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:14:04.025Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:14:04.028Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:14:04.062Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:14:04.075Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:14:04.087Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:14:04.099Z 
+ || CREATION || Application started. || 2026-09-25T01:14:20.315Z 
+ || CREATION || Application started. || 2026-09-25T01:14:22.934Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:14:25.938Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:14:25.942Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:14:25.977Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:14:25.990Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:14:26.004Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:14:26.015Z 
+ || CREATION || Application started. || 2026-09-25T01:14:27.911Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:14:30.922Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:14:30.929Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:14:30.970Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:14:30.984Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:14:30.996Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:14:31.009Z 
+ || CREATION || Application started. || 2026-09-25T01:45:54.087Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:45:57.090Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:45:57.093Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:45:57.128Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:45:57.141Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:45:57.155Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:45:57.165Z 
+ || CREATION || Application started. || 2026-09-25T01:49:08.445Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:49:11.459Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:49:11.464Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:49:11.500Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:49:11.516Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:49:11.528Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:49:11.540Z 
+ || CREATION || Application started. || 2026-09-25T01:49:27.470Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:49:30.485Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:49:30.489Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:49:30.525Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:49:30.537Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:49:30.551Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:49:30.562Z 
+ || CREATION || Application started. || 2026-09-25T01:49:54.861Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:49:57.868Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:49:57.871Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:49:57.975Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:49:57.988Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:49:58.001Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:49:58.014Z 
+ || CREATION || Application started. || 2026-09-25T01:50:01.811Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:50:04.830Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:50:04.837Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:50:04.871Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:50:04.884Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:50:04.896Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:50:04.908Z 
+ || CREATION || Application started. || 2026-09-25T01:50:56.282Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:50:59.294Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:50:59.297Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:50:59.331Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:50:59.343Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:50:59.359Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:50:59.372Z 
+ || CREATION || Application started. || 2026-09-25T01:51:30.261Z 
+ || CREATION || Application started. || 2026-09-25T01:51:32.990Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:51:36.000Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:51:36.004Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:51:36.039Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:51:36.051Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:51:36.062Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:51:36.074Z 
+ || CREATION || Application started. || 2026-09-25T01:51:38.776Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:51:41.787Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:51:41.794Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:51:41.852Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:51:41.864Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:51:41.875Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:51:41.886Z 
+ || CREATION || Application started. || 2026-09-25T01:51:44.531Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:51:47.548Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:51:47.553Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:51:47.588Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:51:47.602Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:51:47.614Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:51:47.628Z 
+ || CREATION || Application started. || 2026-09-25T01:52:47.135Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:52:50.144Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:52:50.147Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:52:50.185Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:52:50.197Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:52:50.211Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:52:50.221Z 
+ || CREATION || Application started. || 2026-09-25T01:53:02.966Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:53:05.983Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:53:05.986Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:53:06.022Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:53:06.037Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:53:06.050Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:53:06.063Z 
+ || CREATION || Application started. || 2026-09-25T01:53:12.092Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:53:15.108Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:53:15.111Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:53:15.144Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:53:15.157Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:53:15.173Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:53:15.185Z 
+ || CREATION || Application started. || 2026-09-25T01:53:54.832Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:53:57.837Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:53:57.839Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:53:57.886Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:53:57.899Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:53:57.914Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:53:57.927Z 
+ || CREATION || Application started. || 2026-09-25T01:54:05.121Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:54:08.133Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:54:08.137Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:54:08.176Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:54:08.189Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:54:08.204Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:54:08.214Z 
+ || CREATION || Application started. || 2026-09-25T01:54:32.782Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:54:35.798Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:54:35.803Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:54:35.837Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:54:35.849Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:54:35.860Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:54:35.871Z 
+ || CREATION || Application started. || 2026-09-25T01:55:32.283Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:55:35.298Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:55:35.300Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:55:35.335Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:55:35.348Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:55:35.361Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:55:35.373Z 
+ || CREATION || Application started. || 2026-09-25T01:55:59.208Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:56:02.227Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:56:02.230Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:56:02.265Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:56:02.278Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:56:02.291Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:56:02.302Z 
+ || CREATION || Application started. || 2026-09-25T01:56:12.845Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:56:15.855Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:56:15.860Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:56:15.894Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:56:15.906Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:56:15.918Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:56:15.927Z 
+ || CREATION || Application started. || 2026-09-25T01:56:28.252Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:56:31.258Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:56:31.264Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:56:31.299Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:56:31.311Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:56:31.322Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:56:31.335Z 
+ || CREATION || Application started. || 2026-09-25T01:56:35.817Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:56:38.834Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:56:38.838Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:56:38.873Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:56:38.885Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:56:38.900Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:56:38.911Z 
+ || CREATION || Application started. || 2026-09-25T01:57:23.680Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:57:26.694Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:57:26.697Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:57:26.733Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:57:26.746Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:57:26.764Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:57:26.778Z 
+ || CREATION || Application started. || 2026-09-25T01:57:40.226Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:57:43.231Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:57:43.235Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:57:43.270Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:57:43.283Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:57:43.298Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:57:43.309Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T01:57:43.309Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T01:57:43.313Z 
+ || CREATION || Application started. || 2026-09-25T01:58:24.778Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:58:27.788Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:58:27.791Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:58:27.824Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:58:27.838Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:58:27.851Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:58:27.862Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T01:58:27.863Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T01:58:27.864Z 
+ || ERROR || Cannot read properties of undefined (reading 'Mode_of_transport_segment') || 2026-09-25T01:58:27.864Z 
+ || CREATION || Application started. || 2026-09-25T01:58:53.559Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:58:56.578Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:58:56.585Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:58:56.621Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:58:56.634Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:58:56.646Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:58:56.657Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T01:58:56.658Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T01:58:56.659Z 
+ || CREATION || Application started. || 2026-09-25T01:59:13.650Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:59:16.663Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:59:16.669Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:59:16.705Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:59:16.717Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:59:16.732Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:59:16.743Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T01:59:16.748Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T01:59:16.749Z 
+ || CREATION || Application started. || 2026-09-25T01:59:33.753Z 
+ || CREATION || Application started. || 2026-09-25T01:59:36.439Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T01:59:39.451Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T01:59:39.454Z 
+ || INFO || Connected to MongoDB || 2026-09-25T01:59:39.488Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T01:59:39.501Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T01:59:39.513Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T01:59:39.523Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T01:59:39.524Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T01:59:39.526Z 
+ || CREATION || Application started. || 2026-09-25T02:00:01.277Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:00:04.293Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:00:04.298Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:00:04.332Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:00:04.344Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:00:04.355Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:00:04.365Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:00:04.366Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:00:04.367Z 
+ || CREATION || Application started. || 2026-09-25T02:00:14.328Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:00:17.344Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:00:17.347Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:00:17.382Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:00:17.394Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:00:17.408Z 
+ || CREATION || Application started. || 2026-09-25T02:01:17.385Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:01:20.395Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:01:20.398Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:01:20.434Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:01:20.446Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:01:20.457Z 
+ || CREATION || Application started. || 2026-09-25T02:01:59.897Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:02:02.913Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:02:02.918Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:02:02.957Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:02:02.970Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:02:02.982Z 
+ || CREATION || Application started. || 2026-09-25T02:02:20.469Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:02:23.484Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:02:23.488Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:02:23.522Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:02:23.535Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:02:23.548Z 
+ || CREATION || Application started. || 2026-09-25T02:02:42.477Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:02:45.489Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:02:45.492Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:02:45.530Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:02:45.545Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:02:45.562Z 
+ || CREATION || Application started. || 2026-09-25T02:03:13.801Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:03:16.806Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:03:16.811Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:03:16.844Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:03:16.856Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:03:16.869Z 
+ || CREATION || Application started. || 2026-09-25T02:03:37.142Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:03:40.159Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:03:40.166Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:03:40.202Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:03:40.213Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:03:40.226Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:03:40.237Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:03:44.458Z 
+ || CREATION || Application started. || 2026-09-25T02:09:38.973Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:09:41.983Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:09:41.987Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:09:42.023Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:09:42.036Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:09:42.049Z 
+ || CREATION || Application started. || 2026-09-25T02:11:11.374Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:11:14.386Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:11:14.389Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:11:14.432Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:11:14.447Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:11:14.460Z 
+ || CREATION || Application started. || 2026-09-25T02:11:39.386Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:11:42.395Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:11:42.398Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:11:42.438Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:11:42.452Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:11:42.465Z 
+ || CREATION || Application started. || 2026-09-25T02:11:52.422Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:11:55.433Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:11:55.436Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:11:55.475Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:11:55.489Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:11:55.505Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:11:55.517Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:11:58.143Z 
+ || CREATION || Application started. || 2026-09-25T02:12:12.010Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:12:15.024Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:12:15.027Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:12:15.065Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:12:15.079Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:12:15.093Z 
+ || CREATION || Application started. || 2026-09-25T02:12:20.655Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:12:23.670Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:12:23.674Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:12:23.710Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:12:23.722Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:12:23.734Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:12:23.744Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:12:26.425Z 
+ || CREATION || Application started. || 2026-09-25T02:13:53.329Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:13:56.343Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:13:56.345Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:13:56.382Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:13:56.396Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:13:56.412Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:13:56.425Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:14:05.316Z 
+ || CREATION || Application started. || 2026-09-25T02:14:12.524Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:14:15.542Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:14:15.545Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:14:15.578Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:14:15.591Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:14:15.603Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:14:15.613Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:14:15.613Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:14:15.618Z 
+ || CREATION || Application started. || 2026-09-25T02:14:44.432Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:14:47.437Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:14:47.439Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:14:47.484Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:14:47.499Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:14:47.515Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:14:47.529Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:14:47.530Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:14:47.536Z 
+ || CREATION || Application started. || 2026-09-25T02:15:04.128Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:15:07.140Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:15:07.143Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:15:07.179Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:15:07.193Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:15:07.207Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:15:07.218Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:15:07.219Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:15:07.223Z 
+ || CREATION || Application started. || 2026-09-25T02:15:08.143Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:15:11.147Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:15:11.151Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:15:11.188Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:15:11.201Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:15:11.212Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:15:11.223Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:15:11.224Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:15:11.228Z 
+ || CREATION || Application started. || 2026-09-25T02:25:35.171Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:25:38.178Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:25:38.181Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:25:38.219Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:25:38.235Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:25:38.248Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:25:38.259Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:25:38.259Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:25:38.264Z 
+ || CREATION || Application started. || 2026-09-25T02:26:02.540Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:26:05.546Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:26:05.549Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:26:05.583Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:26:05.596Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:26:05.611Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:26:05.623Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:26:05.623Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:26:13.708Z 
+ || CREATION || Application started. || 2026-09-25T02:26:17.806Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:26:20.815Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:26:20.818Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:26:20.858Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:26:20.874Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:26:20.887Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:26:20.898Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:26:20.899Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:26:20.904Z 
+ || CREATION || Application started. || 2026-09-25T02:26:24.042Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:26:27.059Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:26:27.062Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:26:27.101Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:26:27.113Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:26:27.126Z 
+ || CREATION || Application started. || 2026-09-25T02:27:27.708Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T02:27:30.716Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T02:27:30.720Z 
+ || INFO || Connected to MongoDB || 2026-09-25T02:27:30.755Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T02:27:30.767Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T02:27:30.779Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T02:27:30.789Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T02:27:32.621Z 
+ || CREATION || Application started. || 2026-09-25T03:02:26.175Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:02:29.179Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:02:29.184Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:02:29.248Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:02:29.264Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:02:29.278Z 
+ || CREATION || Application started. || 2026-09-25T03:02:37.834Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:02:40.840Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:02:40.845Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:02:40.883Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:02:40.896Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:02:40.909Z 
+ || CREATION || Application started. || 2026-09-25T03:06:18.793Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:06:21.797Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:06:21.805Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:06:21.860Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:06:21.874Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:06:21.887Z 
+ || CREATION || Application started. || 2026-09-25T03:07:32.287Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:07:35.295Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:07:35.299Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:07:35.335Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:07:35.349Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:07:35.362Z 
+ || CREATION || Application started. || 2026-09-25T03:08:37.263Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:08:40.277Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:08:40.280Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:08:40.317Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:08:40.332Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:08:40.346Z 
+ || CREATION || Application started. || 2026-09-25T03:08:56.971Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:08:59.982Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:08:59.986Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:09:00.025Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:09:00.040Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:09:00.054Z 
+ || CREATION || Application started. || 2026-09-25T03:09:04.099Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:09:07.117Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:09:07.121Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:09:07.173Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:09:07.191Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:09:07.206Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:09:07.220Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:09:07.221Z 
+ || CREATION || Application started. || 2026-09-25T03:09:08.660Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:09:11.672Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:09:11.676Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:09:11.713Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:09:11.726Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:09:11.741Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:09:11.753Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:09:11.752Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:09:11.756Z 
+ || CREATION || Application started. || 2026-09-25T03:10:23.905Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:10:26.918Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:10:26.921Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:10:26.957Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:10:26.971Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:10:26.990Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:10:27.001Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:10:27.002Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:10:27.009Z 
+ || CREATION || Application started. || 2026-09-25T03:11:06.611Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:11:09.628Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:11:09.631Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:11:09.676Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:11:09.691Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:11:09.711Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:11:09.722Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:11:09.723Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:11:09.727Z 
+ || CREATION || Application started. || 2026-09-25T03:11:32.785Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:11:35.794Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:11:35.797Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:11:35.835Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:11:35.878Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:11:35.890Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:11:35.902Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:11:35.903Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:11:35.907Z 
+ || CREATION || Application started. || 2026-09-25T03:11:38.167Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:11:41.186Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:11:41.193Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:11:41.232Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:11:41.245Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:11:41.257Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:11:41.268Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:11:41.269Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:11:41.273Z 
+ || CREATION || Application started. || 2026-09-25T03:12:05.110Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:12:08.121Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:12:08.124Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:12:08.164Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:12:08.177Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:12:08.191Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:12:08.205Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:12:08.206Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:12:08.211Z 
+ || CREATION || Application started. || 2026-09-25T03:12:09.242Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:12:12.260Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:12:12.264Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:12:12.303Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:12:12.317Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:12:12.329Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:12:12.340Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:12:12.341Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:12:12.345Z 
+ || CREATION || Application started. || 2026-09-25T03:12:17.752Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:12:20.765Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:12:20.769Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:12:20.807Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:12:20.820Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:12:20.834Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:12:20.847Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:12:20.846Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:12:20.851Z 
+ || CREATION || Application started. || 2026-09-25T03:13:14.375Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:13:17.385Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:13:17.388Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:13:17.426Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:13:17.439Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:13:17.453Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:13:17.466Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:13:17.467Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:13:17.471Z 
+ || CREATION || Application started. || 2026-09-25T03:17:04.961Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:17:07.968Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:17:07.973Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:17:08.023Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:17:08.038Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:17:08.052Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:17:08.065Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:17:08.067Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:17:08.071Z 
+ || CREATION || Application started. || 2026-09-25T03:18:15.719Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:18:18.728Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:18:18.731Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:18:18.789Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:18:18.810Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:18:18.826Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:18:18.837Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:18:18.839Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:18:18.846Z 
+ || CREATION || Application started. || 2026-09-25T03:24:11.238Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:24:14.241Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:24:14.245Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:24:14.298Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:24:14.314Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:24:14.330Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:24:14.341Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:24:14.342Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:24:14.348Z 
+ || CREATION || Application started. || 2026-09-25T03:25:22.198Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:25:25.209Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:25:25.213Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:25:25.254Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:25:25.267Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:25:25.283Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:25:25.294Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:25:25.295Z 
+ || CREATION || Application started. || 2026-09-25T03:25:28.756Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:25:31.773Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:25:31.777Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:25:31.813Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:25:31.827Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:25:31.839Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:25:31.851Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:25:31.852Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:25:31.856Z 
+ || CREATION || Application started. || 2026-09-25T03:30:15.537Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:30:18.559Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:30:18.565Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:30:18.599Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:30:18.612Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:30:18.624Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:30:18.633Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:30:18.634Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:30:18.640Z 
+ || CREATION || Application started. || 2026-09-25T03:30:35.719Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:30:38.728Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:30:38.734Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:30:38.773Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:30:38.786Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:30:38.799Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:30:38.810Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:30:38.810Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:30:38.815Z 
+ || CREATION || Application started. || 2026-09-25T03:31:32.147Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:31:35.150Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:31:35.153Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:31:35.191Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:31:35.207Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:31:35.222Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:31:35.234Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:31:35.235Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:31:35.239Z 
+ || CREATION || Application started. || 2026-09-25T03:31:54.178Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:31:57.187Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:31:57.193Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:31:57.230Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:31:57.243Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:31:57.255Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:31:57.265Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:31:57.266Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:31:57.270Z 
+ || CREATION || Application started. || 2026-09-25T03:32:32.214Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:32:35.217Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:32:35.219Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:32:35.255Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:32:35.269Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:32:35.284Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:32:35.297Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:32:35.298Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:32:35.302Z 
+ || CREATION || Application started. || 2026-09-25T03:33:53.818Z 
+ || CREATION || Application started. || 2026-09-25T03:33:57.268Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:34:00.283Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:34:00.289Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:34:00.327Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:34:00.339Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:34:00.352Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:34:00.366Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:34:00.367Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:34:00.372Z 
+ || CREATION || Application started. || 2026-09-25T03:35:01.464Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:35:04.478Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:35:04.483Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:35:04.519Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:35:04.531Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:35:04.545Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:35:04.556Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:35:04.557Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:35:04.563Z 
+ || CREATION || Application started. || 2026-09-25T03:35:42.372Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:35:45.383Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:35:45.387Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:35:45.422Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:35:45.434Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:35:45.446Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:35:45.465Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:35:45.466Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:35:45.473Z 
+ || CREATION || Application started. || 2026-09-25T03:36:27.354Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:36:30.375Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:36:30.378Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:36:30.414Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:36:30.426Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:36:30.439Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:36:30.460Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:36:30.461Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:36:30.470Z 
+ || CREATION || Application started. || 2026-09-25T03:36:42.087Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:36:45.103Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:36:45.106Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:36:45.145Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:36:45.157Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:36:45.173Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:36:45.193Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:36:45.194Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:36:45.201Z 
+ || CREATION || Application started. || 2026-09-25T03:36:59.039Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:37:02.054Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:37:02.057Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:37:02.090Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:37:02.103Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:37:02.114Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:37:02.134Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:37:02.135Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:37:02.142Z 
+ || CREATION || Application started. || 2026-09-25T03:37:43.495Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:37:46.507Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:37:46.512Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:37:46.548Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:37:46.560Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:37:46.574Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:37:46.585Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:37:46.587Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:37:46.593Z 
+ || CREATION || Application started. || 2026-09-25T03:37:47.845Z 
+ || CREATION || Application started. || 2026-09-25T03:37:49.182Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:37:52.190Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:37:52.193Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:37:52.239Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:37:52.253Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:37:52.272Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:37:52.288Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:37:52.289Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:37:52.295Z 
+ || CREATION || Application started. || 2026-09-25T03:38:28.629Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:38:31.641Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:38:31.644Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:38:31.679Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:38:31.693Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:38:31.705Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:38:31.715Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:38:31.716Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:38:31.720Z 
+ || CREATION || Application started. || 2026-09-25T03:39:12.836Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:39:15.854Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:39:15.859Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:39:15.897Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:39:15.911Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:39:15.925Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:39:15.936Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:39:15.937Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:39:15.942Z 
+ || CREATION || Application started. || 2026-09-25T03:40:07.603Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:40:10.614Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:40:10.616Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:40:10.655Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:40:10.669Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:40:10.685Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:40:10.696Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:40:10.697Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:40:10.703Z 
+ || CREATION || Application started. || 2026-09-25T03:40:19.128Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:40:22.135Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:40:22.138Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:40:22.173Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:40:22.186Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:40:22.198Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:40:22.209Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:40:22.210Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:40:22.215Z 
+ || CREATION || Application started. || 2026-09-25T03:41:25.655Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:41:28.666Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:41:28.669Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:41:28.707Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:41:28.721Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:41:28.735Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:41:28.745Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:41:28.746Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:41:28.752Z 
+ || CREATION || Application started. || 2026-09-25T03:41:43.194Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:41:46.207Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:41:46.209Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:41:46.246Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:41:46.260Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:41:46.272Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:41:46.282Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:41:46.283Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:41:46.290Z 
+ || CREATION || Application started. || 2026-09-25T03:41:54.987Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:41:57.994Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:41:57.997Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:41:58.038Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:41:58.050Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:41:58.064Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:41:58.076Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:41:58.076Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:41:58.081Z 
+ || CREATION || Application started. || 2026-09-25T03:42:47.174Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:42:50.186Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:42:50.189Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:42:50.239Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:42:50.253Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:42:50.265Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:42:50.277Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:42:50.278Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:42:50.285Z 
+ || CREATION || Application started. || 2026-09-25T03:42:51.222Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:42:54.238Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:42:54.241Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:42:54.277Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:42:54.290Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:42:54.306Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:42:54.320Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:42:54.321Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:42:54.326Z 
+ || CREATION || Application started. || 2026-09-25T03:42:55.407Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:42:58.412Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:42:58.416Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:42:58.466Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:42:58.485Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:42:58.509Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:42:58.527Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:42:58.528Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:42:58.536Z 
+ || CREATION || Application started. || 2026-09-25T03:43:23.999Z 
+ || INFO || Starting CCN Watcher || 2026-09-25T03:43:27.005Z 
+ || INFO || Files read from C:\Users\ctubelleja\Desktop\CCN || 2026-09-25T03:43:27.008Z 
+ || INFO || Connected to MongoDB || 2026-09-25T03:43:27.052Z 
+ || INFO || Starting xml parsing stream in C:\Users\ctubelleja\Desktop\CCN\KuwaitAirways\OLD\2026-09-23\Manifest-Bol-Created-AL1210035256--KUA0270-26-P03--2C54C7CF-1CD5-406B-A6E4-53BCDD5E9A70 ||  2026-09-25T03:43:27.066Z 
+ || INFO || Starting manifestInfo processing... || 2026-09-25T03:43:27.080Z 
+ || INFO || Finished processing manifestInfo. || 2026-09-25T03:43:27.091Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:43:27.093Z 
+ || INFO || Starting transportInfo processing... || 2026-09-25T03:43:27.097Z 
